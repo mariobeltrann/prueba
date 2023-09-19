@@ -34,3 +34,4 @@ con ping google.com hacemos ping a google.com
 # ¿Cuanta RAM ocupan los contenedores? Crea cuantos contenedores necesites para calcularlo.?
 		
 		ocupan 53.2 kB
+
